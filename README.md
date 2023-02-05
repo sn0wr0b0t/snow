@@ -2,7 +2,11 @@
 
 Summarize wrapper - Summarize any content on the web - from articles to books - in a jiffy!
 
-#### tips: clone the repo, add an alias such as: 
+#### build: clone the repo and depending on your python version:
+
+python3.9 -m pip install -r requirements.txt
+
+#### tips: add an alias such as: 
 ```sh
 alias url="python3 summarize.py" 
 ```
